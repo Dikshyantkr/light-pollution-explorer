@@ -241,7 +241,7 @@ const IndiaMap: React.FC = () => {
               <Button 
                 variant="default" 
                 className="bg-primary hover:bg-primary/90 text-white font-medium"
-                onClick={() => window.open("https://drive.google.com/drive/folders/1lMqwKyCzH38K2yWkwcfW_K2B9TO1mJC_?usp=sharing", "_blank")}
+                onClick={() => window.open("https://drive.google.com/drive/folders/16eVvd6H98Sp6GPkcgKT8VU_h65V3vXh7?usp=sharing", "_blank")}
               >
                 <Download className="mr-2 h-4 w-4" />
                 Download Detailed Report
